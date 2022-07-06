@@ -222,6 +222,7 @@
 #### I companies
 * IBM developerWorks https://developer.ibm.com/dwblog/
 * IFTTT http://engineering.ifttt.com/
+* iHeartRadio https://tech.iheart.com/
 * IMVU https://engineering.imvu.com/
 * Imaginea https://blog.imaginea.com/
 * Imgur https://blog.imgur.com/category/eng/
